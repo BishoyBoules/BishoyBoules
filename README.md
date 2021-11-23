@@ -2,7 +2,7 @@
 - 👀 I’m interested in Front end Web Development
 - 🌱 I’m currently learning React JS
 - 💞️ I’m looking to collaborate on developing web pages
-- 📫 How to reach me through my email BishoyBoles1@gmail.com
+- 📫 How to reach me through my mail BishoyBoles1@gmail.com
 
 <!---
 BishoyBoules/BishoyBoules is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
